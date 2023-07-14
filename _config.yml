@@ -1,5 +1,7 @@
 title: KamibotPi용 Thonny IDE 
-description: 카미봇파이를 사용해서 인공지능 프로그램을 할 수 있는 환경을 제공합니다.
+description: 카미봇파이를 사용해서 인공지능 프로그래밍을 경험할 수 있는 환경을 제공합니다.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
+github:
+      zip_url: https://github.com/kamibot314/ide_thonny/tags
