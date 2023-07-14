@@ -25,6 +25,8 @@ thonny 폴더의 thonny.exe 파일을 직접 실행합니다.
 
 ## 실행 화면 
 
+아래 실행화면은 파이썬 에디터 [Thonny](https://thonny.org/)의 실행 화면입니다.
+
 ![Octocat](/assets/img/thonny.png)
 
 
