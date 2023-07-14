@@ -4,4 +4,4 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
 github:
-      zip_url: https://github.com/kamibot314/ide_thonny/tags
+      zip_url: https://github.com/kamibot314/ide_thonny/releases/download/v2.1/ide_thonny_2.1.zip
